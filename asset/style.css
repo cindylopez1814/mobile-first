@@ -1,0 +1,39 @@
+.testimonios{
+  text-align: center;
+  margin: 5% 5% 1% 5%;
+}
+.tarjetas{
+  margin: 1%;
+}
+.card-img-top{
+width: 95%;
+margin: 1% 1% 1% 2%;
+}
+.title{
+  text-align: center;
+  margin: 10%;
+}
+.formulario{
+  margin-top: 10%;
+  padding: 1%;
+  background-color: #FA8072;
+  color: white;
+}
+.contacto{
+  margin: 5% 10%;
+  width: 80%;
+}
+.btn{
+  background-color: white;
+  color: #333333;
+}
+.nav-head{
+  margin-right: 55%;
+}
+footer{
+  text-align: center;
+}
+i{
+  padding: 1%; 
+  margin: 0.2%;
+}
